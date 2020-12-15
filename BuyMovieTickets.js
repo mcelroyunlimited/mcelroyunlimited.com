@@ -7,7 +7,7 @@
  */
 import java.util.*;
 
-public class BuyMovieTickets
+public class BuyMovieTickets extends Applet
 {
     public static void main(String[] args)
     {
