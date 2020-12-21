@@ -115,7 +115,7 @@ em { color: #000 }
 	width: 940px;
 	height: 106px;
 	padding: 10px;
-	background-image: "unhwinter.jpg" no-repeat top 
+	background-image: url ("unhwinter.jpg") no-repeat top 
 }
 
 #site_title { float: left; margin: 35px 0 0 10px; }
