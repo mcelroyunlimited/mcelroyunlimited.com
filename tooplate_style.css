@@ -9,7 +9,7 @@ http://www.tooplate.com/view/2074-corporate
 body {
 	margin: 0;
 	padding: 0;
-	color: #868684;
+	color: #000;
 	font-family: Tahoma, Geneva, sans-serif;
 	font-size: 12px;
 	line-height: 1.4em; 
@@ -115,7 +115,7 @@ em { color: #000 }
 	width: 940px;
 	height: 106px;
 	padding: 10px;
-	background: url(images/tooplate_header.png) no-repeat top 
+	background: url(unhwinter.jpg.) no-repeat top 
 }
 
 #site_title { float: left; margin: 35px 0 0 10px; }
