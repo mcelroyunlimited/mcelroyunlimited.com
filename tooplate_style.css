@@ -11,7 +11,7 @@ body {
 	padding: 0;
 	color: #000;
 	font-family: Tahoma, Geneva, sans-serif;
-	font-size: 12px;
+	font-size: 13px;
 	line-height: 1.4em; 
 	background-color: #3a3737;
 	background-image: url(images/tooplate_body_top.jpg);
@@ -25,7 +25,7 @@ a:hover { text-decoration: underline; }
 p { margin: 0 0 15px 0; padding: 0; }
 img { border: none; }
 
-h1, h2, h3, h4, h5, h6 { color: #555; font-weight: normal }
+h1, h2, h3, h4, h5, h6 { color: #000; font-weight: normal }
 h1 { font-size: 34px; margin: 0 0 35px 0; padding: 5px 0; }
 h2 { font-size: 30px; margin: 0 0 30px 0; padding: 0; }
 h3 { font-size: 24px; margin: 0 0 20px; padding: 0; }
@@ -231,6 +231,7 @@ em { color: #000 }
 	clear: both;
 	width: 920px;
 	padding: 30px 20px;
+	color: #fff;
 }
 
 #tooplate_bottom h4 {
